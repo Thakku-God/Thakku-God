@@ -2,7 +2,7 @@
 
 ## Hey ✋, this is me:
 
-## - 🧹 **Job** > Working as a chimney sweep
+- 🧹 **Job** > Managing a Roleplay Server
 - 👴 **Age** > Living 20 years on earth
 - 🥅 **Goals** > Coming Soon 
 - 🧩 **Hobbies** > playing games.
