@@ -1,7 +1,7 @@
 ### Hi there, I'm ThakkuGod - aka (TG) 👋
 
-[![ThymonA](https://i.imgur.com/X5ocARk.png)][github]
-[![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)][discord]
+![ThymonA](https://i.imgur.com/X5ocARk.png)
+![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)
 
 
 
