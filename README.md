@@ -1,7 +1,14 @@
 ### Hi there, I'm ThakkuGod - aka (TG) 👋
 
-![ThymonA](https://i.imgur.com/X5ocARk.png)
-![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)
+## Hey ✋, this is me:
+
+## - 🧹 **Job** > Working as a chimney sweep
+- 👴 **Age** > Living 20 years on earth
+- 🥅 **Goals** > Coming Soon 
+- 🧩 **Hobbies** > playing games.
+- 🎵 **Music** > I like listing to: 
+- 🎮 **Games** > Grand Theft Auto, Valorant, Finals and Red Dead Redemption
+
 
 
 
